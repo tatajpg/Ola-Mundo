@@ -3,4 +3,4 @@
 
 Repositório criado durante uma excelente aula ao vivo.
 
-Essa linha eu adicionei diretamente no site. Pois, também é possivel fazer pequenas edições diratamente nele.
+Essa linha eu adicionei diretamente no site. Pois, também é possivel fazer pequenas edições diretamente nele.
